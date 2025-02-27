@@ -1,2 +1,3 @@
-# Resort-management-C-
-In this project, we've developed a Resort Management System using C#.NET and SQL Server.
+Resort management system using C#-A windows based application.
+
+In this project, we've developed a Resort Management System using C#.NET and SQL Server. The system allows for booking rooms and halls, managing restaurant services, and organizing club activities for customers. It tracks room availability, booking details, check-in/check-out times, and provides billing capabilities for rooms, restaurant bills, and club fees. The system includes modules for resort owners, managers, restaurant managers, and sport club managers. It maintains customer and employee records, generates reports, and uses a dynamic, scalable database to enhance resort performance.
